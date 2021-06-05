@@ -1,6 +1,6 @@
 # Theories-of-Distribution-and-Inequality
 <br />
-Teaching assistant of Economics of distribution and inequality.
+Teaching assistant of the course "Theories of Distribution and Inequality".
 <br />
 Professor: Juan Manuel Cisneros.
 <br />
