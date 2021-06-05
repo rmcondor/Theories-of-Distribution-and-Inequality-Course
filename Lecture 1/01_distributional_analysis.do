@@ -3,7 +3,7 @@
 *Objetive: 	Create descriptive graphs and tables
 *Author	:  	Ronny M. Condor (ronny.condor@unmsm.edu.pe)
 *Inputs	:	ENAHO (2009-205)
-*{analysis}s	:	Graphs and tables
+*Outputs	:	Graphs and tables
 *Comments:	The input dataset was cleaned and generated previously by Sebastion *			Sardon. For more details, check his Github page. 
 		
 *****************************************************************/
