@@ -16,6 +16,7 @@ global cleaned	"${root}\03_cleaned"
 global analysis "${root}\04_analysis"
 global results	"${root}\05_results"
 
+*Dataset
 use "${cleaned}\enaho_2009_to_2015",clear
 
 
@@ -102,6 +103,16 @@ by year: replace shrinc=shrinc/shrinc[_N] //Cumulative income by year
 
 twoway (line shrinc shrpop if year==2009) (line shrinc shrpop if year==2011) (line shrinc shrpop if year==2013) (line shrinc shrpop if year==2015) (function y=x) , xtitle("Porcentaje de la población") ytitle("Porcentaje de los ingresos")legend(label (1 "2009") label (2 "2011") label (3 "2013") label (4 "2015") label (5 "Línea de perfecta igualdad")) note("Fuente: INEI" "Elaboración: @rmcondor")
 graph export "${analysis}\figura6.png", as(png) name("Graph") replace
+
+*Coefficient Gini
+ineqdec0 y, by(year)
+
+*Graphs
+use "${cleaned}\giniWB.dta", clear
+drop if gini == .
+
+graph tw (line gini year), xtitle("") ytitle("Coeficiente de Gini") note("Fuente: Banco Mundial" "Elaboración: @rmcondor")
+graph export "${analysis}\figura7.png", as(png) name("Graph") replace
 
 
 *Drop thrash graphs
