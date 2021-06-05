@@ -1,4 +1,6 @@
 # Theories of Distribution and Inequality
+
+## General information about the course
 <br />
 Teaching assistant of the course "Theories of Distribution and Inequality".
 <br />
