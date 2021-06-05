@@ -2,17 +2,15 @@
 
 ## General information about the course
 <br />
-Teaching assistant of the course "Theories of Distribution and Inequality".
++ Professor: Juan Manuel Cisneros.
 <br />
-Professor: Juan Manuel Cisneros.
++ Teaching assistant: Ronny M. Condor
 <br />
-Assistant: Ronny M. Condor
++ University: Universidad Nacional Mayor de San Marcos
 <br />
-University: Universidad Nacional Mayor de San Marcos
++ Department: Faculty of Economics Science
 <br />
-Department: Faculty of Economics Science
-<br />
-Period: 2021-I
++ Period: 2021-I
 <br />
 
 For more information about the course and additional resourses you can send a mail to ronny.condor@unmsm.edu.pe. Suggestions are welcome.
