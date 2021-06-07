@@ -13,9 +13,10 @@ In this lecture we will study the importance of the household surveys as inputs 
 
 ## References
 * Bowles, S., Fong, C. M., Gintis, H., & Pagano, U. (2012). The new economics of inequality and redistribution. Cambridge University Press.
+* Deaton, A. (2019). The Analysis of Household Surveys (Reissue Edition with a New Preface): A Microeconometric Approach to Development Policy. World Bank Publications.
 * Alarco, G., Castillo, C., & Leiva, F. (2019). Riqueza y desigualdad en el Perú. Visión Panorámica. Lima: OXFAM.
 * Gasparini, L., Cicowiez, M., & Sosa Escudero, W. (2012). Pobreza y desigualdad en América Latina. Temas Grupo Editorial.
-* Deaton, A. (2019). The Analysis of Household Surveys (Reissue Edition with a New Preface): A Microeconometric Approach to Development Policy. World Bank Publications.
+
 
 For more information about the course and additional resourses you can send a mail to ronny.condor@unmsm.edu.pe. Suggestions are welcome.
 <br />
