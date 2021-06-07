@@ -114,6 +114,14 @@ drop if gini == .
 graph tw (line gini year), xtitle("") ytitle("Coeficiente de Gini") note("Fuente: Banco Mundial" "Elaboración: @rmcondor")
 graph export "${analysis}\figura7.png", as(png) name("Graph") replace
 
+*Graphs
+use "${cleaned}\povertylevel.dta", clear
+graph tw (line national year), xtitle("") ytitle("Incidencia (% población)") note("Fuente: INEI" "Elaboración: @rmcondor") xlabel(2004(2)2019)
+graph export "${analysis}\figura8.png", as(png) name("Graph") replace
+
+graph tw (line national year) (line urban year) (line rural year) , xtitle("") ytitle("Incidencia (% población)") note("Fuente: INEI" "Elaboración: @rmcondor") xlabel(2004(2)2019) legend(label(1 "Nacional") label(2 "Urbano") label(3 "Rural"))
+graph export "${analysis}\figura9.png", as(png) name("Graph") replace
+
 
 *Drop thrash graphs
 forvalues x=2009(2)2015{
