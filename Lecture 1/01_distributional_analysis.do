@@ -1,10 +1,10 @@
 /**************************************************************
 *Project	:	Distributional analysis of income (2004 - 2019)
-*Objetive: 	Create descriptive graphs and tables
-*Author	:  	Ronny M. Condor (ronny.condor@unmsm.edu.pe)
-*Inputs	:	ENAHO (2009-205)
+*Objetive	: 	Create descriptive graphs and tables
+*Author		:  	Ronny M. Condor (ronny.condor@unmsm.edu.pe)
+*Inputs		:	ENAHO (2009-205)
 *Outputs	:	Graphs and tables
-*Comments:	The input dataset was cleaned and generated previously by Sebastion *			Sardon. For more details, check his Github page. 
+*Comments	:	ENAHO dataset of many years was cleaned and generated previously by Sebastion Sardon. For more details, check his Github page. 
 		
 *****************************************************************/
 
