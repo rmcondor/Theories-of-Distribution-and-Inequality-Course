@@ -18,5 +18,5 @@ In this lecture we will study the importance of the household surveys as inputs 
 * Gasparini, L., Cicowiez, M., & Sosa Escudero, W. (2012). Pobreza y desigualdad en América Latina. Temas Grupo Editorial.
 
 
-Cleaned datasets used in the examples of all lectures can be donwloaded [here](https://drive.google.com/drive/folders/110P45DVyzh0__NhvIL62QStwq4XnIYLz?usp=sharing). For more information about the course and additional resourses you can send a mail to ronny.condor@unmsm.edu.pe. Suggestions are welcome.
+Cleaned datasets used in the examples of all lectures can be downloaded [here](https://drive.google.com/drive/folders/110P45DVyzh0__NhvIL62QStwq4XnIYLz?usp=sharing). For more information about the course and additional resourses you can send a mail to ronny.condor@unmsm.edu.pe. Suggestions are welcome.
 <br />
