@@ -11,6 +11,9 @@
 ### Lecture 1: Household surveys
 In this lecture we will study the importance of the household surveys as inputs for poverty and distributional analysis. We will recognize the importance of household surveys for social research and the generation of welfare indicators. Moreover we will use the [*Encuesta Nacional de Hogares (ENAHO)*](http://iinei.inei.gob.pe/microdatos/) from Peru to make a exploratory analysis of personal income distribution.
 
+### Lecture 2: Inequality metrics
+Estimation of Gini and Theil index. Application for Peru: national and regional level, other subgroups. Application using historical data.
+
 ## References
 * Bowles, S., Fong, C. M., Gintis, H., & Pagano, U. (2012). The new economics of inequality and redistribution. Cambridge University Press.
 * Deaton, A. (2019). The Analysis of Household Surveys (Reissue Edition with a New Preface): A Microeconometric Approach to Development Policy. World Bank Publications.
