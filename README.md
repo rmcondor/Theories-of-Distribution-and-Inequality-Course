@@ -11,8 +11,11 @@
 ### Lecture 1: Household surveys
 In this lecture we will study the importance of the household surveys as inputs for poverty and distributional analysis. We will recognize the importance of household surveys for social research and the generation of welfare indicators. Moreover we will use the [*Encuesta Nacional de Hogares (ENAHO)*](http://iinei.inei.gob.pe/microdatos/) from Peru to make a exploratory analysis of personal income distribution.
 
-### Lecture 2: Inequality metrics
-Estimation of Gini and Theil index. Application for Peru: national and regional level, other subgroups. Application using historical data.
+### Lecture 2: Regional inequality
+Literature review. Application for Peru.
+
+### Lecture 3: Tolerance to inequality
+In this lecture we will develop the tolerance to inequality model. We will show some empirical studies about this topic and one application using the World Bank database.
 
 ## References
 * Bowles, S., Fong, C. M., Gintis, H., & Pagano, U. (2012). The new economics of inequality and redistribution. Cambridge University Press.
